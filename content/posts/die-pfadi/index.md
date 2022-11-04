@@ -1,7 +1,7 @@
 +++
 title = "Die Pfadi"
 date = "2022-11-04"
-draft = true
+draft = false
 pinned = false
 tags = ["schule", "reportage", "textproduktion", "pfadi", "scouts"]
 image = "pexels-cottonbro-studio-9303753-2-1-.jpg"
