@@ -5,3 +5,9 @@ draft = true
 pinned = false
 +++
 # Pfadi fägt!
+
+`{{</*lead*/>}}`\
+Ein Lead steht zwischen zwei solchen Blöcken.\
+`{{</*/lead*/>}}`
+
+``
