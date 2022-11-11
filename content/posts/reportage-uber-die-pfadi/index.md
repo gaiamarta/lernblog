@@ -6,8 +6,6 @@ pinned = false
 +++
 # Pfadi fägt!
 
-`{{</*lead*/>}}`\
-Ein Lead steht zwischen zwei solchen Blöcken.\
-`{{</*/lead*/>}}`
-
-``
+{{<lead>}}
+Woher kommt die Pfadi? Welche Auswirkungen hat die Pfadi auf den Rest ihres Lebens? Auf der Suche nach Antworten haben wir eine Pfadigruppe einen Nachmittag lang begleitet und mit einer erfahrenen Pfadfinderin über ihre Eindrücke gesprochen.
+{{</lead>}}
