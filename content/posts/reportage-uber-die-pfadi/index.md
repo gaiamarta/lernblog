@@ -1,8 +1,9 @@
 +++
 title = "Reportage über die Pfadi"
 date = "2022-11-11"
-draft = false
+draft = true
 pinned = false
+image = "pexels-cottonbro-studio-9303753-2-1-.jpg"
 +++
 # Pfadi fägt!
 
