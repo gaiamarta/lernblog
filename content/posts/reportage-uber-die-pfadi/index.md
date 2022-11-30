@@ -4,7 +4,7 @@ date = "2022-12-02"
 draft = false
 pinned = false
 image = "pexels-cottonbro-studio-9303753-2-1-.jpg"
-description = "Reportage über die Pfadi"
+description = "Eine Reportage über die Pfadi."
 +++
 {{<lead>}}
 Woher kommt die Pfadi? Welche Auswirkungen hat die Pfadi auf die Pfadfinder:innen? Wir haben uns auf die Suche nach Antworten begeben.
