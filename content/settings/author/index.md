@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "Gaia ischi"
+name = "Gaia Ischi"
 image = ""
 email = ""
 +++
