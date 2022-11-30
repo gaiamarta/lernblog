@@ -12,7 +12,7 @@ Woher kommt die Pfadi? Welche Auswirkungen hat die Pfadi auf die Pfadfinder:inne
 
 Der Täter ist entlarvt, die Pfadfinder:innen sind glücklich. Nach zwei Stunden Schnitzeljagd machen wir uns auf den Weg zurück zum Pfadiheim, welches neben einem Feldweg auf einem Hügel liegt. Die Stimmung ist gelassen, Essen wird geteilt und zum Schluss stehen wir alle in einem Kreis, schreien einen Pfadispruch. Die gute Laune ist ansteckend, fast schon elektrisierend.
 
-![(Foto: Gaia Ischi)](pfadiheim-1-.jpg "Das Pfadiheim in Worb")
+![Das Pfadiheim in Worb (Foto: Gaia Ischi)](pfadiheim-1-.jpg "Das Pfadiheim in Worb")
 
 Unsere Geschichte beginnt einige Stunden davor: Als wir um zwölf beim Pfadiheim eintreffen, sind die Leiter:innen in ihre letzten Vorbereitungen für die Aktivität an diesem Samstagnachmittag vertieft. Kostüme werden zurechtgelegt, Hinweise für eine Schnitzeljagd gelegt und der Zeitplan überarbeitet. Die Kinder werden um zwei Uhr eintreffen, und bis dahin muss alles bereit sein, denn heute ist ein besonderer Tag in Worb: Es ist das Generationenfest . Im Rahmen dieses Dorffestes haben viele Leute Stände aufgestellt, um Handarbeiten, Essen und Weiteres zu verkaufen. So hat auch die Pfadi einen Informationsstand. Für die Pfadi eine gute Gelegenheit, neue Mitglieder zu rekrutieren.
 
@@ -26,7 +26,7 @@ Unsere Suche nach den Anfängen der Pfadi führt uns zurück in das England von 
 
 Auch in der Schweiz begeisterte die Pfadi schnell die Jugendlichen. 1910 wurde der erste Pfadfindertrupp für die Jungs aufgebaut. Die Mädchen gründeten nur kurz später ihre eigene Pfadi. Die Idee der Pfadi verbreitete sich in der Schweiz wie ein Lauffeuer: viele kleinere Organisationen waren verstreut über die ganze Schweiz. Um die Zusammenarbeit unter den Pfadis weiter zu fördern, wurde 1987 eine Dachorganisation gegründet, die Pfadibewegung Schweiz (PBS), welche bis heute besteht. «Die Vergangenheit \[der Pfadi] ist vielleicht nicht wirklich glorreich», meint unsere Interviewpartnerin Smile im Zusammenhang mit dem militärischen Ursprung, die Pfadibewegung Schweiz suche eine Distanzierung. So werden die wöchentlichen Treffen am Samstagmorgen «Aktivität» und nicht mehr «Übung» genannt, wie uns ein Pfadfinder am Generationenfest erklärt.
 
-![(Foto: Gaia Ischi)](pfeife.jpg "Smiles Pfeife")
+![Smiles Pfeife (Foto: Gaia Ischi)](pfeife.jpg "Smiles Pfeife")
 
 {{<box title="Unsere Interviewpartnerin Smile">}}
 
@@ -54,7 +54,7 @@ Zusätzlich ist der Pfadi die Gemeinschaft bedeutsam. Der Kontakt zur regionalen
 
 > Die Pfadi ist ein gutes Werkzeug, welches man das ganze Leben lang dabeihat. - Smile
 
-![(Foto: Gaia Ischi)](materialien-1-.jpg "Das Worber Pfadiheim von innen")
+![Das Worber Pfadiheim von innen (Foto: Gaia Ischi)](materialien-1-.jpg "Das Worber Pfadiheim von innen")
 
 {{<box title="Der Aufbau der Pfadi">}}
 
@@ -74,7 +74,7 @@ Eine Studie der Tufts University zeigt ferner, dass die Vertrauenswürdigkeit in
 
 Die Erweiterung der sozialen Kompetenzen sei laut Smile klar bemerkbar. In den Aktivitäten am Samstagnachmittag löst man gemeinsam Probleme, was die Pfadfinderinnen und Pfadfinder zusammenschweisst. Die gemeinschaftliche Stimmung, die durch das anschliessende Teilen von mitgebrachtem Essen entsteht, erfahren wir an eigenem Leibe. Die Vertrautheit ist klar spürbar, als wir uns langsam dem Ende unseres Pfadibesuches nähern. Ein letztes Mal stehen wir alle in einem grossen Kreis, wir werfen unsere Hände in die Höhe und schreien: “Pfadi Worb!” Es ist nun fünf Uhr nachmittags und immer mehr Eltern trudeln ein, um ihre Kinder von der Pfadi abzuholen. Auch wir machen uns auf den Heimweg, unsere Eindrücke des Pfadinachmittags begleiten uns. «Dieses Zusammenleben ist etwas, was ich so nicht an vielen anderen Orten erlebt habe», meint Smile.  
 
-![(Foto: Gaia Ischi)](sackmesser.jpg "Smiles Sackmesser - ein viel genutztes Werkzeug in der Pfadi")
+![Smiles Sackmesser - ein viel genutztes Werkzeug in der Pfadi (Foto: Gaia Ischi)](sackmesser.jpg "Smiles Sackmesser - ein viel genutztes Werkzeug in der Pfadi")
 
 ## Zu guter Letzt
 
