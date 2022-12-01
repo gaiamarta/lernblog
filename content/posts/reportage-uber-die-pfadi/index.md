@@ -20,6 +20,12 @@ Sobald die Pfadfinder:innen eintreffen, starten wir mit einigen Spielen, um uns 
 
 > Wie bastelt man etwas so zusammen, dass es hält? - Smile
 
+{{<box title="Unsere Interviewpartnerin Smile">}}
+
+Unsere Interviewpartnerin (2005), Smile mit Pfadinamen, ist (nebst einer Gymnasiastin am Gymnasium Kirchenfeld) seit gut zehn Jahren begeisterte Pfadfinderin. Nach ihrem Wechsel von der Pfadi Steinbruch in die Pfadi Patria ist sie dem Mädchentrupp «Lapislazuli» beigetreten. Heute ist sie in der Roverstufe. Smile hat schon vieles bei der Pfadi erlebt und erzählt uns gerne ihre zahlreichen Geschichten aus der Pfadi.
+
+{{</box>}}
+
 ## Der Ursprung der Pfadi
 
 Unsere Suche nach den Anfängen der Pfadi führt uns zurück in das England von 1907. Der Londoner Robert Stephenson Smyth Baden-Powell ist General der britisch-königlichen Armee. Seine militärische Laufbahn begann er mit 19 Jahren. Seine weltweit gesammelten Erfahrungen und durchgeführten Expeditionen helfen ihm bei seiner Aufgabe, Späher – «Scouts» – auszubilden. «Geschichtlich ist die Pfadi eine Vorbereitung für den Krieg», erklärt uns Smile. Die damaligen Überzeugungen lauteten: Eine erfolgreiche Ausbildung des Nachwuchses bedarf einer autoritären Erziehung. Im starken Kontrast dazu beurteilte Baden-Powell den Grundsatz «Lernen durch Handeln» als gewinnversprechender. Er empfand es als essentiell, seinen «Scouts» zu vertrauen. Diese Erziehungsphilosophie hielt er in seinem Buch «Aids to Scouting» fest, welches einen grossen Erfolg verzeichnen konnte. Daraufhin schrieb Baden-Powell ein weiteres Buch, welches darauf abzielte, englische Jugendliche dazu zu ermutigen, ihre Umgebung zu erforschen und erkunden. Diese zwei Schriften waren die Basis für die Gründung der ersten Jugendbewegung von Scouts. 21 Jugendliche führten mit Baden-Powell, von seinen Pfadfindern liebevoll BiPi genannt, das erste Pfadilager auf Brownsea Island durch, einer kleinen Insel im Süden Englands. Die Begeisterung war gross; schon bald waren englische Jungen und Mädchen von der Pfadi verzaubert. Nach «Girl Guides» (um 1914), geschrieben von BiPi und seiner Schwester, war die Pfadi weltweit bekannt.  
@@ -27,12 +33,6 @@ Unsere Suche nach den Anfängen der Pfadi führt uns zurück in das England von 
 Auch in der Schweiz begeisterte die Pfadi schnell die Jugendlichen. 1910 wurde der erste Pfadfindertrupp für die Jungs aufgebaut. Die Mädchen gründeten nur kurz später ihre eigene Pfadi. Die Idee der Pfadi verbreitete sich in der Schweiz wie ein Lauffeuer: viele kleinere Organisationen waren verstreut über die ganze Schweiz. Um die Zusammenarbeit unter den Pfadis weiter zu fördern, wurde 1987 eine Dachorganisation gegründet, die Pfadibewegung Schweiz (PBS), welche bis heute besteht. «Die Vergangenheit \[der Pfadi] ist vielleicht nicht wirklich glorreich», meint unsere Interviewpartnerin Smile im Zusammenhang mit dem militärischen Ursprung, die Pfadibewegung Schweiz suche eine Distanzierung. So werden die wöchentlichen Treffen am Samstagmorgen «Aktivität» und nicht mehr «Übung» genannt, wie uns ein Pfadfinder am Generationenfest erklärt.
 
 ![Smiles Pfeife (Foto: Gaia Ischi)](pfeife.jpg "Smiles Pfeife")
-
-{{<box title="Unsere Interviewpartnerin Smile">}}
-
-Unsere Interviewpartnerin (2005), Smile mit Pfadinamen, ist (nebst einer Gymnasiastin am Gymnasium Kirchenfeld) seit gut zehn Jahren begeisterte Pfadfinderin. Nach ihrem Wechsel von der Pfadi Steinbruch in die Pfadi Patria ist sie dem Mädchentrupp «Lapislazuli» beigetreten. Heute ist sie in der Roverstufe. Smile hat schon vieles bei der Pfadi erlebt und erzählt uns gerne ihre zahlreichen Geschichten aus der Pfadi.
-
-{{</box>}}
 
 ## Die Ziele und Methoden der Pfadi
 
