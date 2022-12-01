@@ -14,7 +14,7 @@ Der Täter ist entlarvt, die Pfadfinder:innen sind glücklich. Nach zwei Stunden
 
 ![Das Pfadiheim in Worb (Foto: Gaia Ischi)](pfadiheim-1-.jpg "Das Pfadiheim in Worb")
 
-Unsere Geschichte beginnt einige Stunden davor: Als wir um zwölf beim Pfadiheim eintreffen, sind die Leiter:innen in ihre letzten Vorbereitungen für die Aktivität an diesem Samstagnachmittag vertieft. Kostüme werden zurechtgelegt, Hinweise für eine Schnitzeljagd gelegt und der Zeitplan überarbeitet. Die Kinder werden um zwei Uhr eintreffen, und bis dahin muss alles bereit sein, denn heute ist ein besonderer Tag in Worb: Es ist das Generationenfest . Im Rahmen dieses Dorffestes haben viele Leute Stände aufgestellt, um Handarbeiten, Essen und Weiteres zu verkaufen. So hat auch die Pfadi einen Informationsstand. Für die Pfadi eine gute Gelegenheit, neue Mitglieder zu rekrutieren.
+Unsere Geschichte beginnt einige Stunden davor: Als wir um zwölf beim Pfadiheim eintreffen, sind die Leiter:innen in ihre letzten Vorbereitungen für die Aktivität an diesem Samstagnachmittag vertieft. Kostüme werden zurechtgelegt, Hinweise für eine Schnitzeljagd gelegt und der Zeitplan überarbeitet. Die Kinder werden um zwei Uhr eintreffen, und bis dahin muss alles bereit sein, denn heute ist ein besonderer Tag in Worb: Es ist das Generationenfest. Im Rahmen dieses Dorffestes haben viele Leute Stände aufgestellt, um Handarbeiten, Essen und Weiteres zu verkaufen. So hat auch die Pfadi einen Informationsstand. Für die Pfadi eine gute Gelegenheit, neue Mitglieder zu rekrutieren.
 
 Sobald die Pfadfinder:innen eintreffen, starten wir mit einigen Spielen, um uns aufzuwärmen. Die Leiterin fasst die Geschehnisse des Samstages davor zusammen und erinnert die Pfadfinder:innen an ihr Ziel: Sie müssen herausfinden, wer gefälschte Mona Lisas verkauft. Dazu müssen wir ein Logical ausfüllen, die Informationen finden wir überall verstreut in Worb, eingezeichnet auf einer Karte. Das Lösen praktischer Probleme in der Wildnis und Kartenlesen sei ein wichtiger Bestandteil der Pfadi, erklärt uns unsere Interviewpartnerin Smile.
 
@@ -79,9 +79,5 @@ Die Erweiterung der sozialen Kompetenzen sei laut Smile klar bemerkbar. In den A
 ## Zu guter Letzt
 
 Smile hat uns von vielen schönen Momenten in der Pfadi erzählt – von der Geselligkeit, von der harten Arbeit, von ihren Erkenntnissen. Pfadfinderin zu sein, gehöre zu ihrer Lebenseinstellung, meint sie. Auch wir bleiben berührt von unserem Erlebnis in der Pfadi, denn sie vermittelte uns eine Sorglosigkeit, ein simples «Sein», ohne Vorurteile oder Bedingungen. Was man letztendlich unbedingt über die Pfadi wissen muss? «Pfadi fägt!»
-
-
-
-
 
 Foto Titel: cottonbro studio
