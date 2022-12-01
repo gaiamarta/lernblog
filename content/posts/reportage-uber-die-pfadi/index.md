@@ -5,6 +5,7 @@ draft = false
 pinned = false
 image = "pexels-cottonbro-studio-9303753-2-1-.jpg"
 description = "Eine Reportage über die Pfadi."
+footnotes = "Von: Martina Gobbin und Gaia Ischi\n\nFotos: Gaia Ischi\n\nFoto Titel: cottonbro studio"
 +++
 {{<lead>}}
 Woher kommt die Pfadi? Welche Auswirkungen hat die Pfadi auf die Pfadfinder:innen? Wir haben uns auf die Suche nach Antworten begeben.
@@ -79,5 +80,3 @@ Die Erweiterung der sozialen Kompetenzen sei laut Smile klar bemerkbar. In den A
 ## Zu guter Letzt
 
 Smile hat uns von vielen schönen Momenten in der Pfadi erzählt – von der Geselligkeit, von der harten Arbeit, von ihren Erkenntnissen. Pfadfinderin zu sein, gehöre zu ihrer Lebenseinstellung, meint sie. Auch wir bleiben berührt von unserem Erlebnis in der Pfadi, denn sie vermittelte uns eine Sorglosigkeit, ein simples «Sein», ohne Vorurteile oder Bedingungen. Was man letztendlich unbedingt über die Pfadi wissen muss? «Pfadi fägt!»
-
-Foto Titel: cottonbro studio
