@@ -44,7 +44,13 @@ Auch in der Schweiz begeisterte die Pfadi schnell die Jugendlichen. 1910 wurde d
 
 Viele der heutigen Ziele der Pfadi haben ihren Ursprung noch immer in der Vision von Baden-Powell: Die Pfadiausbildung soll die Jugendlichen zu friedlichen Bürgern und funktionierenden Gliedern der Gesellschaft erziehen. Sie sollen zu verantwortlichen und unabhängigen Menschen heranwachsen. 
 
-So sind laut der Pfadibewegung Schweiz zentrale Aspekte der Pfadi eine gesunde Beziehung zu sich selbst, zu Mitmenschen und zu der Umwelt, in der man sich befindet. Die Pfadfinder:innen bewegen sich in einem Umfeld, welches sich stark von ihrem Zuhause oder der Schule unterscheidet. Durch die Pfadi entwickeln sie eine Unabhängigkeit und fördern ihre Persönlichkeit; Selbstbewusstsein und Selbstkritik stehen an erster Stelle, die Pfadfinder:innen sollen ihre Potentiale erkennen können und werden dazu motiviert, diese auszuschöpfen. Die Pfadfinder:innen, welche wir in Worb begleiten durften, sind stets aufgestellt und tatkräftig. Aufgeben gibt es nicht.  
+So sind laut der Pfadibewegung Schweiz zentrale Aspekte der Pfadi eine gesunde Beziehung zu sich selbst, zu Mitmenschen und zu der Umwelt, in der man sich befindet. Die Pfadfinder:innen bewegen sich in einem Umfeld, welches sich stark von ihrem Zuhause oder der Schule unterscheidet. Durch die Pfadi entwickeln sie eine Unabhängigkeit und fördern ihre Persönlichkeit; Selbstbewusstsein und Selbstkritik stehen an erster Stelle, die Pfadfinder:innen sollen ihre Potentiale erkennen können und werden dazu motiviert, diese auszuschöpfen. Die Pfadfinder:innen, welche wir in Worb begleiten durften, sind stets aufgestellt und tatkräftig. Aufgeben gibt es nicht.
+
+{{<box title="Der Aufbau der Pfadi">}}
+
+In der Schweiz organisiert die Pfadibewegung Schweiz (PBS) nationale Anliegen wie Ausbildungskurse oder eine gute Vernetzung auf internationaler Ebene. Kantonalverbände kümmern sich um die Organisation innerhalb der Kantone und die Mitwirkung auf nationaler Ebene. Die lokalen Pfadis sind zuständig für das Programm am Samstagnachmittag und für die Pfadilager. Die Pfadi umfasst mehrere Stufen; das Programm ist an die jeweilige Altersgruppe angepasst. 
+
+{{</box>}}
 
 Auch die Kreativität ist ein Ziel der Pfadi. Gefördert wird die Kreativität hauptsächlich dadurch, dass die Pfadfinder:innen an vielen verschiedenen Aktivitäten teilnehmen. Lagerfeuer, das gemeinsame Singen von Pfadiliedern, Spielen, Theaterspielen, und das gemeinsame Kochen unterstützen das Zusammengehörigkeitsgefühl. «Man sollte nicht unterschätzen, wie es ist, am Abend an einem Lagerfeuer Lieder zu singen», erzählt uns Smile.  
 
@@ -59,12 +65,6 @@ Weiter hat die Inklusivität einen hohen Stellenwert in der Pfadi. Smile bericht
 Zusätzlich ist der Pfadi die Gemeinschaft bedeutsam. Der Kontakt zur regionalen Bevölkerung ist dabei von Bedeutung: Die Pfadi organisiert Feste, Flohmärkte und andere Veranstaltungen. Ein Beispiel dafür ist das Generationenfest in Worb, das wir im Rahmen unseres Besuches bei der Pfadi Worb besuchen durften. 
 
 ![Das Worber Pfadiheim von innen (Foto: Gaia Ischi)](materialien-1-.jpg "Das Worber Pfadiheim von innen")
-
-{{<box title="Der Aufbau der Pfadi">}}
-
-In der Schweiz organisiert die Pfadibewegung Schweiz (PBS) nationale Anliegen wie Ausbildungskurse oder eine gute Vernetzung auf internationaler Ebene. Kantonalverbände kümmern sich um die Organisation innerhalb der Kantone und die Mitwirkung auf nationaler Ebene. Die lokalen Pfadis sind zuständig für das Programm am Samstagnachmittag und für die Pfadilager. Die Pfadi umfasst mehrere Stufen; das Programm ist an die jeweilige Altersgruppe angepasst. 
-
-{{</box>}}
 
 ## Die Pfadierfahrung als Werkzeug
 
