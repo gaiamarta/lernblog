@@ -3,12 +3,15 @@ title = "Pfadi fägt!"
 date = "2022-12-02"
 draft = false
 pinned = false
+tags = ["Deutsch", "Reportage"]
 image = "pexels-cottonbro-studio-9303753-2-1-.jpg"
 description = "Eine Reportage über die Pfadi."
 footnotes = "Von: Martina Gobbin und Gaia Ischi\n\nFotos: Gaia Ischi\n\nFoto Titel: cottonbro studio"
 +++
 {{<lead>}}
 Woher kommt die Pfadi? Welche Auswirkungen hat die Pfadi auf die Pfadfinder:innen? Wir haben uns auf die Suche nach Antworten begeben.
+
+Eine Reportage von Gaia Ischi und Martina Gobbin
 {{</lead>}}
 
 Der Täter ist entlarvt, die Pfadfinder:innen sind glücklich. Nach zwei Stunden Schnitzeljagd machen wir uns auf den Weg zurück zum Pfadiheim, welches neben einem Feldweg auf einem Hügel liegt. Die Stimmung ist gelassen, Essen wird geteilt und zum Schluss stehen wir alle in einem Kreis, schreien einen Pfadispruch. Die gute Laune ist ansteckend, fast schon elektrisierend.
@@ -19,7 +22,9 @@ Unsere Geschichte beginnt einige Stunden davor: Als wir um zwölf beim Pfadiheim
 
 Sobald die Pfadfinder:innen eintreffen, starten wir mit einigen Spielen, um uns aufzuwärmen. Die Leiterin fasst die Geschehnisse des Samstages davor zusammen und erinnert die Pfadfinder:innen an ihr Ziel: Sie müssen herausfinden, wer gefälschte Mona Lisas verkauft. Dazu müssen wir ein Logical ausfüllen, die Informationen finden wir überall verstreut in Worb, eingezeichnet auf einer Karte. Das Lösen praktischer Probleme in der Wildnis und Kartenlesen sei ein wichtiger Bestandteil der Pfadi, erklärt uns unsere Interviewpartnerin Smile.
 
-> Wie bastelt man etwas so zusammen, dass es hält? - Smile
+> „Wie bastelt man etwas so zusammen, dass es hält?“
+>
+> \- Smile
 
 {{<box title="Unsere Interviewpartnerin Smile">}}
 
@@ -53,8 +58,6 @@ Weiter hat die Inklusivität einen hohen Stellenwert in der Pfadi. Smile bericht
 
 Zusätzlich ist der Pfadi die Gemeinschaft bedeutsam. Der Kontakt zur regionalen Bevölkerung ist dabei von Bedeutung: Die Pfadi organisiert Feste, Flohmärkte und andere Veranstaltungen. Ein Beispiel dafür ist das Generationenfest in Worb, das wir im Rahmen unseres Besuches bei der Pfadi Worb besuchen durften. 
 
-> Die Pfadi ist ein gutes Werkzeug, welches man das ganze Leben lang dabeihat. - Smile
-
 ![Das Worber Pfadiheim von innen (Foto: Gaia Ischi)](materialien-1-.jpg "Das Worber Pfadiheim von innen")
 
 {{<box title="Der Aufbau der Pfadi">}}
@@ -66,6 +69,10 @@ In der Schweiz organisiert die Pfadibewegung Schweiz (PBS) nationale Anliegen wi
 ## Die Pfadierfahrung als Werkzeug
 
 «Jeder nimmt etwas anderes mit, aber etwas nimmt man sicher mit», behauptet Smile in unserem Interview. Doch was sind nun die positiven Auswirkungen der Pfadi? Smile erzählt von einem Erlebnis eines Leiters. Als Sechzehnjähriger habe er ohne jegliche Einwände eine Lehre angefangen. Derselbe Lehrmeister, der ihn eingestellt habe, habe einen zwanzigjährigen Gymnasiasten jedoch nicht eingestellt. Dieser sei zu jung und habe keine Lebenserfahrung. Auf die Frage des Pfadileiters, wieso der Lehrmeister ihn eingestellt habe, erhielt er diese Antwort: «Weil du ein Pfadfinder bist.» Smile meint weiter, dass die Pfadi ein gutes Werkzeug für den Rest ihres Lebens sei.
+
+> „Die Pfadi ist ein gutes Werkzeug, welches man das ganze Leben lang dabeihat.“
+>
+> \- Smile
 
 Studien unterstützen diese Aussage. Eine schottische Studie zeigt, dass nur wenige ehemalige Pfadfinder:innen im Erwachsenenalter an Depressionen oder Angststörungen erkranken. Der Wissenschaftler Richard M. Lerner führte eine Umfrage mit Programmführer der «Boy-Scouts of America», welche die positiven Effekte der Pfadi einschätzen mussten. Die Resultate waren eindeutig: Die Leiter glaubten an positiven Auswirkungen. Unter anderem wurde die akademische Leistung als erhöht eingeschätzt.
 
