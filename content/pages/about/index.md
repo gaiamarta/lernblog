@@ -1,12 +1,12 @@
 +++
 title = "About me"
 draft = false
-description = ""
 image = ""
+description = ""
 +++
 ![](/img/default-author.jpg)
 
-## My Name
+## Gaia Ischi
 
 mail@example.org
 
