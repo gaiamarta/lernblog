@@ -1,5 +1,5 @@
 +++
-title = "Eldorado"
+title = "Eldorado de Laurent Gaudé"
 date = "2023-01-09"
 draft = true
 pinned = false
