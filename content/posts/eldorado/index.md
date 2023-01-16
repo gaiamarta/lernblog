@@ -21,7 +21,9 @@ Une liste des romans écrits par Laurent Gaudé:
 
 ## Résumé
 
-Le livre s'agit du commandant italien Salvatore Piracci et du clandestin Soudanais Soleiman. Tout les deux ne sont pas satisfaits avec leur vie et passent des défis pour arriver à leur Eldorado. La place où la vie "passera comme une caresse". Le livre parle des thèmes comme l'amour fraternel, la migration, la mort et de l'éspoir d'arriver à une belle vie.
+Le livre s'agit du commandant italien Salvatore Piracci et parallèlement du clandestin Soudanais Soleiman. Tout les deux ne sont pas satisfaits avec leur vie et passent des défis pour arriver à leur Eldorado, la place où la vie "passera comme une caresse". Soleiman et Salvatore Piracci rencontrent des personnages importants pour leur voyage. Tout les deux se transforment mentalement. Ils doivent explorer ce qu’il sont préparés de faire pour arriver a leur déstination.
+
+Le livre parle des thèmes comme l'amour fraternel, la migration, la mort et de l'éspoir d'arriver à une belle vie.
 
 ## Citations
 
