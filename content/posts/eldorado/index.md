@@ -1,7 +1,7 @@
 +++
 title = "Eldorado de Laurent Gaudé"
 date = "2023-01-09"
-draft = true
+draft = false
 pinned = false
 tags = ["französisch", "lektüre", "francophonie", "Gaudé", "Eldorado"]
 description = "Un blog de lecture sur « Eldorado » de Laurent Gaudé."
