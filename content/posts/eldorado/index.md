@@ -4,6 +4,7 @@ date = "2023-01-09"
 draft = false
 pinned = false
 tags = ["französisch", "lektüre", "francophonie", "Gaudé", "Eldorado"]
+image = "df273b9c-a3e1-4818-b3cd-acf7515eac4f.jpeg"
 description = "Un blog de lecture sur « Eldorado » de Laurent Gaudé."
 +++
 ## Auteur
