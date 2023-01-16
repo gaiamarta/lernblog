@@ -1,5 +1,5 @@
 +++
-title = "Eldorado - destination: la mer"
+title = "Eldorado - Destination: la mer"
 date = "2023-01-09"
 draft = false
 pinned = false
