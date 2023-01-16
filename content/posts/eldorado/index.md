@@ -37,4 +37,6 @@ Voici quelques des mes citations préférés:
 
 ## Avis
 
-Le livre "Eldorado" parle des thèmes importants et actuels. Gaudé montre les differents aspects de la migration illegale.
+Le livre "Eldorado" parle des thèmes importants et actuels. Gaudé montre les differents aspects de la migration illegale. J’amais beaucoup que le livre a deux narrateurs, ils sont des characters bien developés avec des personnalités complexes. Je pense que ça donne plus d’intensité au livre.
+
+Au debut, c’était un peu difficile de comprendre tout ce que c’est passé dans le livre, mais quand je connaissais les différents personnages c’était plus facile. Le texte utilise des mots et phrases diverse, le vocabulaire est plutôt riche.
