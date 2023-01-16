@@ -31,7 +31,7 @@ Voici quelques des mes citations préférés:
 >
 > « Et tu a eu le courage de rester mon frère. »
 >
-> « Tout commence maintenant. \[] Tout va commencer maintenant. Pour moi et pour Boubakar. \[] Plus rien, maintenant, ne pourra m'arrêter. »
+> « Tout commence maintenant. \[…] Tout va commencer maintenant. Pour moi et pour Boubakar. \[…] Plus rien, maintenant, ne pourra m'arrêter. »
 >
 > « L'Eldorado était là. »
 
